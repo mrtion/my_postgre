@@ -15,7 +15,7 @@ export default defineNuxtConfig({
       postgresql: {
         connector: 'postgresql',
         options: {
-          url: 'postgresql://postgres:EyplthWmpLnWxBowZbawRDITktdEDOaR@altaria.proxy.rlwy.net:14059/railway'
+          url: 'postgresql://postgres:tPMyQbeTtVSWBCasivKhwkjiSrdTjwjd@postgres.railway.internal:5432/railway'
         }
       },
     }
